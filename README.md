@@ -19,7 +19,7 @@ Configuration
 Download this example project from GitHub and run the following commands:
 
     $ ionic platform add android
-    $ cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git
+    $ cordova plugin add org.apache.cordova.inappbrowser
 
 The above commands will add the Android build platform and install the required Apache InAppBrowser plugin.
 
