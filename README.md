@@ -10,6 +10,7 @@ Requirements
 
 * Apache Cordova 3.5+
 * [Apache Cordova InAppBrowser Plugin](http://cordova.apache.org/docs/en/3.0.0/cordova_inappbrowser_inappbrowser.md.html)
+* [Apache Cordova White-list Plugin](https://github.com/apache/cordova-plugin-whitelist)
 * [ngCordova](http://www.ngcordova.com)
 
 
@@ -20,6 +21,7 @@ Download this example project from GitHub and run the following commands:
 
     $ ionic platform add android
     $ cordova plugin add org.apache.cordova.inappbrowser
+    $ cordova plugin add cordova-plugin-whitelist
 
 The above commands will add the Android build platform and install the required Apache InAppBrowser plugin.
 
@@ -67,8 +69,6 @@ Version History
 Have a question or found a bug (compliments work too)?
 -------------
 
-Email me via my website - [http://www.nraboy.com](http://www.nraboy.com/contact)
-
 Tweet me on Twitter - [@nraboy](https://www.twitter.com/nraboy)
 
 
@@ -82,3 +82,5 @@ AngularJS - [http://www.angularjs.org](http://www.angularjs.org)
 Apache Cordova - [http://cordova.apache.org](http://cordova.apache.org)
 
 ngCordova - [http://www.ngcordova.com](http://www.ngcordova.com)
+
+Nic Raboy's Code Blog - [https://blog.nraboy.com](https://blog.nraboy.com)
